@@ -1,3 +1,6 @@
+BUY ON GUMROAD
+https://eyyupavci.gumroad.com/l/bicpwo
+
 # CodePath
 
 > Master Rust, C and C++ Through Interactive Lessons & Gamification.
@@ -32,17 +35,6 @@ More languages will be added in future updates.
 - Modern Desktop UI
 - Offline Learning
 
----
-
-# 🚀 Get the Full Version
-
-The complete desktop application is available on Gumroad.
-
-👉 **Buy Here**
-
-https://eyyupavci.gumroad.com/l/bicpwo
-
----
 
 ## Future Updates
 
